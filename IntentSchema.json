@@ -1,0 +1,32 @@
+{
+  "intents": [
+    {
+      "intent": "GetNurseIntent",
+      "slots": [
+        {
+          "name": "Gender",
+          "type": "Gender"
+        },
+        {
+          "name": "Year_Born",
+          "type": "AMAZON.FOUR_DIGIT_NUMBER"
+        },
+        {
+          "name": "Symptoms",
+          "type": "Symptoms"
+        }
+      ]
+    },
+    {"intent": "AMAZON.YesIntent"},
+    {"intent": "AMAZON.NoIntent"},
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+GetNurseIntent I am {Gender}
+GetNurseIntent {Gender}
+
+GetNurseIntent I was born on {Year_Born}
+
+GetNurseIntent What is the diagnosis for {Symptoms}
+
+GetNurseIntent I am {Gender} born on {Year_Born} and I have  {Symptoms}
+GetNurseIntent I am {Gender} born on {Year_Born} and I have a {Symptoms}
+GetNurseIntent I am {Gender} born on {Year_Born} and I feel {Symptoms}
+GetNurseIntent I am {Gender} born on {Year_Born} and I feel a {Symptoms}
+
+GetNurseIntent {Symptoms}
+GetNurseIntent I am {Symptoms}
+GetNurseIntent I am sensing {Symptoms}
+GetNurseIntent I am feeling {Symptoms}
+GetNurseIntent I am having {Symptoms}
+GetNurseIntent I have {Symptoms} 
+GetNurseIntent I have an {Symptoms}
+GetNurseIntent I have a {Symptoms}
+GetNurseIntent I have to {Symptoms}
+GetNurseIntent I feel a {Symptoms}
+GetNurseIntent I feel an {Symptoms}
+GetNurseIntent I feel {Symptoms}
+GetNurseIntent I feel like {Symptoms}
+GetNurseIntent I feel I cant {Symptoms}
+GetNurseIntent There is {Symptoms}
+GetNurseIntent There are {Symptoms}
+GetNurseIntent It is {Symptoms}
+GetNurseIntent It was {Symptoms}
+GetNurseIntent {Symptoms} is here
+GetNurseIntent {Symptoms} is present
+GetNurseIntent I cant {Symptoms}
+GetNurseIntent I can not {Symptoms}
